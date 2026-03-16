@@ -18,6 +18,8 @@ Due to file size limitations, full project materials are hosted on Google Drive:
 
 Student: Evans Mwaura Mburu  
 
+Registration Number: C026-0911/2022
+
 Bachelor of Science in Computer Science
 
 
